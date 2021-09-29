@@ -1,1 +1,2 @@
-# W21-Web-Technologien-DB
+# Web-Technologien und Datenbanken
+Vorlesung Wintersemester 21/22
